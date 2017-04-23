@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "Segoe UI";
+  src: url(http://controldetiempo.com/fonts/segoeui.eot);
+  src:url(http://controldetiempo.com/fonts/segoeui.eot?) format("embedded-opentype"),
+  url(http://controldetiempo.com/fonts/segoeui.woff) format("woff"),
+  url(http://controldetiempo.com/fonts/segoeui.ttf) format("truetype"),
+  url(http://controldetiempo.com/fonts/segoeui.svg#Segoe UI) format("svg");
+}
+
+@font-face {
+  font-family: "Segoe UI Semibold";
+  src:url(http://controldetiempo.com/fonts/seguisb.eot);
+  src:url(http://controldetiempo.com/fonts/seguisb.eot?) format("embedded-opentype"),
+  url(http://controldetiempo.com/fonts/seguisb.woff) format("woff"),
+  url(http://controldetiempo.com/fonts/seguisb.ttf) format("truetype"),
+  url(http://controldetiempo.com/fonts/seguisb.svg#SegoeUI-Semibold) format("svg");
+}
+
+body {font-family: "Segoe UI"; background:#f3f3f3;}
+
+li {list-style:none;}
+
+#menu {background-color:#000;}
+
+#hero {background:red;}
+
+#footer h5 {font-weight:700;}
+
+.img {width:100%;}
+
+#div {margin-bottom:5%;}
+
+#top {margin-bottom:2%;}
+
+p {font-family:"Segoe UI Semibold";}
+
+h3 {color:black;}
+
+#menu1 {color:red;font-family:"Segoe UI Semibold";}
+
+#menu, a, a:hover {color:#fff;}
+
+#footer, a,a:hover,li,li:hover {text-decoration:none;}
+
+#menu,.thumbs {height:auto;}
+
+#footer a,#top,#top, a,ol, a,ol, a:hover {color:#000;}
+
+#footer a:hover,li:hover {color:red;}
+
+ul {font-family:"Segoe UI Semibold";}
+
+#menu h5 a{color: white;}
+
+h1{color: black;}
+
+span{font-size: 25px;}
+
+.contact {font-family:"Segoe UI";}
